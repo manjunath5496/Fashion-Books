@@ -102,7 +102,20 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(54).pdf" style="text-decoration:none;">State Skill Standards: Fashion, Textiles And Design </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(55).pdf" style="text-decoration:none;">The Art Of Fashion Illustration </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(56).pdf" style="text-decoration:none;">The Fashion Design Reference + Specification Book </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(57).pdf" style="text-decoration:none;">The Language Of Fashion Design</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(58).pdf" style="text-decoration:none;">1000 Poses in Fashion </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(59).pdf" style="text-decoration:none;">Drawing Fashion and Style: A Step-by-Step Guide to Drawing Clothes, Shoes and Accessories</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(60).pdf" style="text-decoration:none;">The Fashion Business </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(61).pdf" style="text-decoration:none;">The Language of Fashion </a></b></li>
 
 
 
