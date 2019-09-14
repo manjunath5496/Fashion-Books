@@ -117,6 +117,21 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(61).pdf" style="text-decoration:none;">The Language of Fashion </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(11).pdf" style="text-decoration:none;">Fashion Design Basics</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(37).rar" style="text-decoration:none;">Patternmaking for Fashion Design </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(41).pdf" style="text-decoration:none;">Sustainable Fashion: A Handbook for Educators</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(47).pdf" style="text-decoration:none;">Fashion Marketing</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(52).pdf" style="text-decoration:none;">So, You Want to Work in Fashion?: How to Break into the World of Fashion and Design </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(62).pdf" style="text-decoration:none;">Fashionable Technology: The Intersection of Design, Fashion, Science, and Technology</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(63).pdf" style="text-decoration:none;">1000+ Fashion Poses: A Complete Reference Book for Photographers</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(64).pdf" style="text-decoration:none;">The International Fashion Guide: Top Fashion Brands &middot; Showrooms Directory </a></b></li>
 
 
 
