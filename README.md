@@ -1,35 +1,34 @@
 
 <ul>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(1).pdf" style="text-decoration:none;">Introduction to Psychology - 1st Canadian Edition  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(1).pdf" style="text-decoration:none;">Dame Fashion  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(2).pdf" style="text-decoration:none;">Encyclopedia of Educational Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(2).pdf" style="text-decoration:none;">The Boston Miscellany of Literature and Fashion, Vol. 2</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(3).pdf" style="text-decoration:none;">How to Talk to Anyone: 92 Little Tricks for Big Success in Relationships</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(3).pdf" style="text-decoration:none;">Chronicles of Fashion: From the Time of Elizabeth to the Early Part of the Nineteenth Century</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(4).pdf" style="text-decoration:none;">The Psychology of Self-Esteem: A Revolutionary Approach to Self-Understanding That Launched a New Era in Modern Psychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(4).pdf" style="text-decoration:none;">The ladies cabinet of fashion, music and romance</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(5).pdf" style="text-decoration:none;">Encyclopedia of Psychology and Law </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(5).pdf" style="text-decoration:none;">Fashion Studies: Guide to Standards and Implementation </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(6).pdf" style="text-decoration:none;">Foundations of Cognitive Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(6).pdf" style="text-decoration:none;">Fashion and Famine</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(7).pdf" style="text-decoration:none;">Introduction to Psychology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(7).pdf" style="text-decoration:none;">A Sketch of Modern France: In a Series of Letters to a Lady of Fashion, Written in the Years 1796 and 1797, During a Tour Through France  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(8).pdf" style="text-decoration:none;">Cognitive Psychology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(8).pdf" style="text-decoration:none;">Milan Fashion Week Insider's Guide   </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(9).pdf" style="text-decoration:none;">Encyclopedia of Psychology and Religion  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(9).pdf" style="text-decoration:none;"> Fashion Merchandising</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(10).pdf" style="text-decoration:none;">Handbook of Psychology: Experimental psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(10).pdf" style="text-decoration:none;">The School for Fashion, in Two Volumes</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(11).pdf" style="text-decoration:none;">Introduction to Art Therapy</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(12).pdf" style="text-decoration:none;">The Cambridge Dictionary of Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(12).pdf" style="text-decoration:none;">The American gentleman's guide to politeness and fashion</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(13).pdf" style="text-decoration:none;">Clinical Psychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(13).pdf" style="text-decoration:none;">Samantha At Saratoga or Flirtin' with Fashion Holley </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(14).pdf" style="text-decoration:none;">Handbook of Psychology: Developmental psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(14).pdf" style="text-decoration:none;">The Mask of Fashion: a Plain Tale </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(15).pdf" style="text-decoration:none;">Handbook of Psychology: Forensic psychology   </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(15).pdf" style="text-decoration:none;">Fashion Drawing And Design   </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(16).pdf" style="text-decoration:none;">Cross-Cultural Psychology  </a></b></li>
 
