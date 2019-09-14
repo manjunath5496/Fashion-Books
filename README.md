@@ -153,7 +153,16 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(73).rar" style="text-decoration:none;">Fashion Artist: Drawing Techniques to Portfolio Presentation</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(49).pdf" style="text-decoration:none;">A Cultural History of Fashion in the 20th and 21st Centuries</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(74).pdf" style="text-decoration:none;">House Of Fashion</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(75).rar" style="text-decoration:none;">The House Of Worth: Fashion Sketches, 1916 -1918 </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(76).pdf" style="text-decoration:none;">Contemporary Fashion</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(77).pdf" style="text-decoration:none;">Fast Fashion Design</a></b></li>
 
 
 
