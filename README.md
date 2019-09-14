@@ -30,26 +30,26 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(15).pdf" style="text-decoration:none;">Fashion Drawing And Design   </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(16).pdf" style="text-decoration:none;">Cross-Cultural Psychology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(16).pdf" style="text-decoration:none;">An Intimate Art: 12 Books of Hours for 2012  </a></b></li>
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(17).pdf" style="text-decoration:none;">Handbook of Psychology: Health psychology  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(17).pdf" style="text-decoration:none;"> A Winter in London; Or, Sketches of Fashion: A Novel  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(18).pdf" style="text-decoration:none;">Educational Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(18).pdf" style="text-decoration:none;">The Man Of Fashion; A Tale Of Modern Times</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(19).pdf" style="text-decoration:none;">Statistical Methods for Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(19).pdf" style="text-decoration:none;">Fundamental principles of the Baconian ciphers, and application to books of the sixteenth and seventeenth centuries</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(20).pdf" style="text-decoration:none;">Handbook of Psychology, Volume 1, History of Psychology</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(20).pdf" style="text-decoration:none;">The Glass of Fashion: A Personal History of Fifty Years of Changing Tastes and the People Who Have Inspired Them</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(21).pdf" style="text-decoration:none;">The Psychology of Entertainment Media: Blurring the Lines Between Entertainment and Persuasion  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(21).pdf" style="text-decoration:none;">Fashion Merchandising Guide  </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(22).pdf" style="text-decoration:none;">Energy Psychology Theory, Research, and Treatment</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(22).pdf" style="text-decoration:none;">Striking Likenesses; Or, the Votaries of Fashion</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(23).pdf" style="text-decoration:none;">The Concise Dictionary of Psychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(23).pdf" style="text-decoration:none;">The colonel : a story of fashionable life </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(24).pdf" style="text-decoration:none;">Flow and the Foundations of Positive Psychology </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(24).pdf" style="text-decoration:none;">The Quicksands Of Fashion: A Novel </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(25).pdf" style="text-decoration:none;">Research in Psychology: Methods and Design  </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(25).pdf" style="text-decoration:none;">Fashion and Passion </a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Psychology-Books/blob/master/pch(26).pdf" style="text-decoration:none;">Sport and Exercise Psychology: A Critical Introduction</a></b></li>
 
