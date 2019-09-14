@@ -133,6 +133,27 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(64).pdf" style="text-decoration:none;">The International Fashion Guide: Top Fashion Brands &middot; Showrooms Directory </a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(65).pdf" style="text-decoration:none;">In Fashion: From Runway to Retail, Everything You Need to Know to Break Into the Fashion Industry </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(66).pdf" style="text-decoration:none;">In an Influential Fashion: An Encyclopedia of Nineteenth- and Twentieth-Century Fashion Designers and Retailers Who Transformed Dress</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(67).pdf" style="text-decoration:none;">Artificial Intelligence on Fashion and Textiles</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(68).pdf" style="text-decoration:none;">Artificial Intelligence for Fashion: How AI is Revolutionizing the Fashion Industry </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(69).pdf" style="text-decoration:none;">Fashion as Photograph</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(70).pdf" style="text-decoration:none;">The face of fashion: Cultural studies in fashion</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(71).pdf" style="text-decoration:none;">The World's Best-Kept Beauty Secrets: What Really Works in Beauty, Diet, and Fashion </a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(72).pdf" style="text-decoration:none;">The Fashionable Life: Fashion Imagery and the Construction of Masculinity in America, 1960-2000</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Fashion-Books/blob/master/fah(73).rar" style="text-decoration:none;">Fashion Artist: Drawing Techniques to Portfolio Presentation</a></b></li>
+
+
 
 
 
