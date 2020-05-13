@@ -3,6 +3,15 @@
 <p>Exclusive brands aspire for the label&nbsp;<em><a title="Haute couture" href="https://en.wikipedia.org/wiki/Haute_couture">haute couture</a>,</em>&nbsp;but the term is technically limited to members of the&nbsp;<em>Chambre Syndicale de la Haute Couture</em>&nbsp;in Paris.</p>
 <p>With increasing mass-production of consumer commodities at Lower prices, and with global reach,&nbsp;<a title="Sustainable fashion" href="https://en.wikipedia.org/wiki/Sustainable_fashion">sustainability</a>&nbsp;has become an urgent issue amongst politicians, brands,and consumers.</p>
 </br>
+<p><a class="image" href="150px-E1266601_(5398889640).jpg"><img class="thumbimage" src="150px-E1266601_(5398889640).jpg" srcset="150px-E1266601_(5398889640).jpg" alt="" width="150" height="240" data-file-width="2245" data-file-height="3593" /></a></p>
+<div class="thumbcaption">
+<div class="magnify">&nbsp;</div>
+<a title="Model (person)" href="https://en.wikipedia.org/wiki/Model_(person)">Model</a>&nbsp;in a modern gown reflecting the current&nbsp;<a class="mw-redirect" title="Fashion trend" href="https://en.wikipedia.org/wiki/Fashion_trend">fashion trend</a>&nbsp;at a&nbsp;<a title="Haute couture" href="https://en.wikipedia.org/wiki/Haute_couture">Haute couture</a>&nbsp;<a title="Fashion show" href="https://en.wikipedia.org/wiki/Fashion_show">fashion show</a>, Paris, 2011</div>
+</br>
+
+
+
+
 <h2> Books </h2>
 
 
